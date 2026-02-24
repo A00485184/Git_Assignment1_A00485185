@@ -1,3 +1,6 @@
 Japan
 China
 India
+Germany
+France
+Italy
